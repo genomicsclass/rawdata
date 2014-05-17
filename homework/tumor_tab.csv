@@ -1,4 +1,4 @@
-"","bcr_patient_barcode","sample_id","tumor_necrosis_percent","tumor_nuclei_percent","tumor_weight","vial_number"
+"","bcr_patient_barcode","bcr_sample_uuid","tumor_necrosis_percent","tumor_nuclei_percent","tumor_weight","vial_number"
 "1","TCGA-A6-2681","180c07ce-3b79-4aaa-9ffd-04e1e604a76c",5,80,200,"B"
 "2","TCGA-A6-2681","0537bad8-0e85-4b05-91b3-fd965e96d0d7",5,80,200,"A"
 "3","TCGA-A6-2682","f10f139d-1d7f-4923-8129-f103f5d3163b",5,80,800,"A"
